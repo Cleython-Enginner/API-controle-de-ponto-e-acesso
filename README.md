@@ -1,5 +1,11 @@
-# diolive
+# Projeto realizado no Santander Bootcamp Fullstack Developer com parceria da Digital Innovation One
 
-Api rest para gerenciamento de ponto e controle de acesso.
+### O projeto basea-se em desenvolver uma API Rest para controle de ponto e acesso dos usuários de uma empresa. 
 
-Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
+
+#### Tecnologias Utilizadas: 
+- Java
+- Spring Boot
+- Hibernate Envers 
+- Lombok 
+- Swagger API
